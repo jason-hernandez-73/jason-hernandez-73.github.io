@@ -4,16 +4,15 @@
 }
 
 body {
-  background-color:#ffff80;
+  background-color:yellow;
 }
 
 pseudo-element::before {
-  content: &nbsp; &nbsp; &nbsp; 
+  content: &nbsp; 
 }
 
 p {
   display: block;
-  width: 400px;
   margin: 50px auto;
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
