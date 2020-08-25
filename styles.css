@@ -7,12 +7,29 @@ body {
   background-color:yellow;
 }
 
-pseudo-element::before {
-  content: &nbsp; 
+h1 {
+  text-align: center;
+  text-shadow: 2px 2px 5px red;
 }
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+ ul li {
+   background: #f7fa66;
+ }
+
+ ol li {
+   background: #f7be20;
+ }
 
 p {
   display: block;
+  text-indent: 2em;
   margin: 50px auto;
+  padding: 50px;
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
