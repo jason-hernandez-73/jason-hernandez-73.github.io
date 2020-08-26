@@ -3,8 +3,16 @@
   padding:0px;
 }
 
+body, html, .container {
+  height: 100%;
+}
+
 body {
   background-color:yellow;
+}
+
+a:hover {
+  color: rebeccapurple;
 }
 
 h1 {
@@ -18,8 +26,14 @@ img.center {
   margin-right: auto;
   }
 
+  ul {
+    margin: 20;
+  }
+
  ul li {
    background: #f7fa66;
+   margin: 10;
+   padding: 10;
  }
 
  ol li {
