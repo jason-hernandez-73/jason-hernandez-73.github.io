@@ -12,7 +12,11 @@ h1 {
   text-shadow: 2px 2px 5px red;
 }
 
-img.center {
+h5 {
+  padding-left: 50px;
+}
+
+.center {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -20,10 +24,12 @@ img.center {
 
  ul li {
    background: #f7fa66;
+   padding-right: 50px;
  }
 
  ol li {
    background: #f7be20;
+   padding-right: 50px;
  }
 
 p {
@@ -31,5 +37,5 @@ p {
   text-indent: 2em;
   margin: 50px auto;
   padding: 50px;
-  font: 35px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 25px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
