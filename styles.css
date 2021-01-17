@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color:yellow;
+  background-color:#fdff8c;
 }
 
 h1 {
@@ -31,5 +31,5 @@ p {
   text-indent: 2em;
   margin: 50px auto;
   padding: 50px;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 35px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
