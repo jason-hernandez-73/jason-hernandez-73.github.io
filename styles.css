@@ -1,6 +1,6 @@
 * {
-  margin:0px;
-  padding:0px;
+  margin:10px;
+  padding:10px;
 }
 
 body {
@@ -25,12 +25,14 @@ h5 {
 
  ul li {
    background: #f7fa66;
-   padding-left: 50px;
+   padding: 10px;
+   margin-left: 50px;
  }
 
  ol li {
    background: #f7be20;
-   padding-left: 50px;
+   padding: 10px;
+   margin-left: 50px;
  }
 
 p {
@@ -38,5 +40,6 @@ p {
   text-indent: 2em;
   margin: 50px auto;
   padding: 50px;
+  padding-bottom: 10px;
   font: 20px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
